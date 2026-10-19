@@ -1,0 +1,23 @@
+# --- Java / Spring Boot (Pasta api) ---
+api/target/
+api/.gradle/
+api/build/
+api/.sts*/
+api/.vscode/
+api/.factorypath
+api/.settings/
+api/bin/
+*.class
+*.log
+
+# --- React / Vite (Pasta recomeco-front) ---
+recomeco-front/node_modules/
+recomeco-front/dist/
+recomeco-front/.vite/
+recomeco-front/.DS_Store
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
